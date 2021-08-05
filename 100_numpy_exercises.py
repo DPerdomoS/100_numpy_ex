@@ -1,7 +1,7 @@
 import os
 os.chdir("C:\\Users\\dario\\Desktop\\CURSO UDEMY")
 main_path = os.getcwd()
-
+# Prueba de cambio
 
 # 1. Importamos la libreria
 import numpy as np
